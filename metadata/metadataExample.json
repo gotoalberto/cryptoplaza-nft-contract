@@ -1,0 +1,39 @@
+{
+    "name": "Dave Starbelly",
+    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "external_url": "https://openseacreatures.io/3",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "attributes": [ ...
+    ]
+}
+
+
+  {
+    "image": "ipfs://QmRWSXn26HaBdLrR42g3A2fM9aBUvrYpRPE6QMZvv9C6Zo",
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value": "Beanie"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bandolier"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sleepy"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Dark Brown"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bored Pipe"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        }
+    ]
+}
